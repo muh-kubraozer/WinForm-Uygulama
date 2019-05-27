@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HorseRaceWinformsApp", "HorseRaceWinformsApp\HorseRaceWinformsApp.csproj", "{B2ECE351-FC34-45BD-A489-654D3B2DC245}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HorseRaceDomain", "HorseRaceDomain\HorseRaceDomain.csproj", "{9360D2ED-439A-4930-91A9-24778D0977B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2ECE351-FC34-45BD-A489-654D3B2DC245}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2ECE351-FC34-45BD-A489-654D3B2DC245}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2ECE351-FC34-45BD-A489-654D3B2DC245}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2ECE351-FC34-45BD-A489-654D3B2DC245}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9360D2ED-439A-4930-91A9-24778D0977B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9360D2ED-439A-4930-91A9-24778D0977B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9360D2ED-439A-4930-91A9-24778D0977B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9360D2ED-439A-4930-91A9-24778D0977B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C75395F-760E-4704-98AB-28B7B1A527F1}
+	EndGlobalSection
+EndGlobal
